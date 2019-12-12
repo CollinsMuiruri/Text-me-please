@@ -2,7 +2,7 @@
 
 
 
-![Product Gif](https://raw.githack.com/creativetimofficial/public-assets/master/argon-dashboard/argon-dashboard.jpg)
+![Product Gif](https://raw.githubusercontent.com/CollinsMuiruri/Text-me-please/master/assets/img/theme/dashboard.png)
 
 ## Licensing
 
